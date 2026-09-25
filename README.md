@@ -228,3 +228,5 @@ Toggle between English and Hindi (`🌐 EN` / `🌐 HI`) at any time from the to
 
 ## 10. Team & Submission Credits
 Developed for **Smart India Hackathon 2026** by the AnekEk Team under the theme *Agriculture, FoodTech & Rural Development / Household & Community Services*.
+#   a n e k e k  
+ 
